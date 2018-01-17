@@ -165,7 +165,7 @@ body.jump-mode div.slide-container:hover {
   -webkit-animation-name: blinker;
   -webkit-animation-iteration-count: infinite;
   -webkit-animation-timing-function: cubic-bezier(1.0,0,0,1.0);
-  -webkit-animation-duration: 800ms;
+  -webkit-animation-duration: 1000ms;
 }
 
 table, th, td {
