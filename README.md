@@ -1,2 +1,2 @@
 # pt_osm
-Public transport presentation for maptimetirana
+Public transport how-to presentation for [maptimetirana](maptime.io/tirana)
